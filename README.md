@@ -14,7 +14,7 @@ It creates subfolders for each unique extension and moves the corresponding file
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/file-sorter.git
+   git clone https://github.com/titash/file-sorter.git
    ```
 
 2. Change into the project directory:
