@@ -1,6 +1,6 @@
 # File Sorter
 
-File Sorter is a Python script that organizes files in a folder based on their extensions. 
+File Sorter is a Python script that organizes files in a folder based on their extensions.
 It creates subfolders for each unique extension and moves the corresponding files into their respective subfolders.
 
 ## Features
@@ -66,10 +66,10 @@ Contributions are welcome! If you have any ideas, improvements, or bug fixes, pl
 
 This project is licensed under the [MIT License](LICENSE).
 ```
-This markdown file provides 
-- an overview of the project 
+This markdown file provides
+- an overview of the project
 - installation instructions
-- usage examples 
+- usage examples
 - information on contributing
 - the project's license.
 Feel free to use this markdown file as a starting point and customize it according to your project's needs.
